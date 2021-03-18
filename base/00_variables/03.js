@@ -1,0 +1,2 @@
+
+// Opérateur d’affectation
