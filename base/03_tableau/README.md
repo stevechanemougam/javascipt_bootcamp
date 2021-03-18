@@ -11,4 +11,4 @@
 
 ## reduce
 
-## find
+## fonction utiles
