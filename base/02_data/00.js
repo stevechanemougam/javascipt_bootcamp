@@ -1,2 +1,0 @@
-
-// Strucutre de donnée
