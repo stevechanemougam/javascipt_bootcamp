@@ -1,2 +1,0 @@
-
-// porté des variables
