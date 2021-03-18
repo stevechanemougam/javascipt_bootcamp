@@ -1,2 +1,0 @@
-
-// Operateur de comparaison

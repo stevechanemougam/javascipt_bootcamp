@@ -1,2 +1,0 @@
-
-// operateur logique

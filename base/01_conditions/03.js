@@ -1,2 +1,0 @@
-
-// Opérateur ternaire
