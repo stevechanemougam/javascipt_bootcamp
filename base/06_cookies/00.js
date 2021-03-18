@@ -1,2 +1,0 @@
-
-// localeStorage / sessionStorrage
