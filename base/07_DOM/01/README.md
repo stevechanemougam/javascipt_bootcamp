@@ -1,7 +1,7 @@
-# Les noeud
+# Les noeuds
 
-En utilisant l'objet `document` et ses fonctions:
+En utilisant l'objet `document` et ses fonctions :
 
-- À l'aide de `getElementsByClassName` recupéré le premier element avec la classe `text`
+- À l'aide de `getElementsByClassName` récupéré le premier élément avec la classe `text`
 
 - Afficher ensuite le text de son fils (la balise `span`)

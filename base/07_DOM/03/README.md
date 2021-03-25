@@ -1,6 +1,6 @@
-# Modifier les elements
+# Modifier les éléments
 
-En utilisant l'objet `document` et ses fonctions:
+En utilisant l'objet `document` et ses fonctions :
 
 - Modifier le titre pour qu'il affiche `"Je suis le nouveau titre h1"`
 
