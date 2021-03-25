@@ -1,14 +1,12 @@
 
-## Les variables
+## 00 - Les variables let
 
-## let
+## 01 - Type
 
-## type
+## 02 - Concatenation
 
-## concatenation
+## 03 - Opérateur arithmétique
 
-## Opérateur arithmétique
+## 04 - Opérateurs d’affectation
 
-## Opérateurs d’affectation
-
-## const
+## 05 - Les variables const

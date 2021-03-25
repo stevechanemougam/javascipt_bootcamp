@@ -1,7 +1,7 @@
 # Opérateur arithmétique
 
-Déclarer 6 variables qui utilisrons chacune un operateur arithmetique dans leurs declaration
+Déclarer 6 variables qui utiliseront chacune un opérateur arithmétique dans leurs déclarations
 
-Les operateurs arithmétique sont les suivant: `+, -. *, /, %, **`
+Les opérateurs arithmétiques sont les suivants : `+, -. *, /, %, **`
 
-Vous devez afficher votre resultat avec la fonction `console.log`
+Vous devez afficher votre résultat avec la fonction `console.log`
