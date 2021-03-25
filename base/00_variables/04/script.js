@@ -1,2 +1,2 @@
 
-// Opérateur d’affectation
+// opérateur arithmétiques

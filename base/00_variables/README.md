@@ -3,10 +3,12 @@
 
 ## 01 - Type
 
-## 02 - Concatenation
+## 02 - Conversion
 
-## 03 - Opérateur arithmétique
+## 03 - Concatenation
 
-## 04 - Opérateurs d’affectation
+## 04 - Opérateur arithmétique
 
-## 05 - Les variables const
+## 05 - Opérateurs d’affectation
+
+## 06 - Les variables const

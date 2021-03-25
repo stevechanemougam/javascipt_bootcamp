@@ -1,7 +1,9 @@
-# Opérateur arithmétique
+# Concatenation
 
-Déclarer 6 variables qui utiliseront chacune un opérateur arithmétique dans leurs déclarations
+Déclaré une variable final qui sera la concaténation des variables a, b, c, d
 
-Les opérateurs arithmétiques sont les suivants : `+, -. *, /, %, **`
+Afficher le résultat de votre programme avec la fonction `console.log`
 
-Vous devez afficher votre résultat avec la fonction `console.log`
+Vous ne devez pas utiliser l'opérateur `+`
+
+Votre programme doit afficher dans la console: "Bonjour je code en javascript"

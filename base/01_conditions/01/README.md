@@ -1,6 +1,6 @@
 # Opérateur de comparaison
 
-Utiliser chaque operateur de comparaison avec les variables qui sont déclarer au debut du fichier.
-Vous devez rentré dans chaque conditions, et pouvoir afficher chaque console.log.
-Les operateurs de comparaison sont les suivant: `>, >=, <, <=, ==, !=, ===, !===`
+Utiliser chaque opérateur de comparaison avec les variables qui sont déclarer au début du fichier.
+Vous devez rentrer dans chaque condition, et pouvoir afficher chaque console.log.
+Les opérateurs de comparaison sont les suivants : `>, >=, <, <=, ==, !=, ===, !===`
 

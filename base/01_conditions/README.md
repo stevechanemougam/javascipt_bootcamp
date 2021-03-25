@@ -1,8 +1,10 @@
 
-## if else if else
+## 00 - if else if else
 
-## Opérateur de comparaison
+## 01 - Opérateur de comparaison
 
-## Opérateur logique
+## 02 - Opérateur logique
 
-## Ternaires
+## 03 - switch
+
+## 04 - Ternaires

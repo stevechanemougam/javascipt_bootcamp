@@ -1,6 +1,2 @@
 
-// const
-
-const hello = "Bonjour"
-
-hello = "Hello"
+// Opérateur d’affectation

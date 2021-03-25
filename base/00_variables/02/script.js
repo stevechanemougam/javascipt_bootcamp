@@ -1,8 +1,4 @@
 
-// concatenation
-
-let a = "Bonjour"
-let b = "je code"
-let c = "en"
-let d = "javascript"
-
+let a = 12
+let b = "22"
+let c = "42.21"

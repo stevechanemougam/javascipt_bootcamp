@@ -1,6 +1,8 @@
 
 // operateur logique
 
-let a = 0
-let b = () ? "OK" : "KO"
-console.log(b)
+let a = Math.floor(Math.random() * Math.floor(3))
+
+switch (a) {
+
+}

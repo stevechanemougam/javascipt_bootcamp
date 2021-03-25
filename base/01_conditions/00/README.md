@@ -1,3 +1,3 @@
 # if else if else
 
-Déclaré une variable de type booleen de facon à quelle remplisse la condition.
+Déclarée une variable de type booléen de façon à quelle remplisse la condition.
