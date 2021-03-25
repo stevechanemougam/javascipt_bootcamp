@@ -2,6 +2,6 @@
 
 À l'aide de l'objet `location`:
 
-- Rechargé la page
+- Rechargez la page.
 
-- Redirigé la page courrant vers: `"https://google.com"`
+- Redirigez la page courant vers: `"https://google.com"`

@@ -1,13 +1,13 @@
 # Window
 
-Même exercice que le precedent mais,
+Même exercice que le précèdent, mais
 
-- en declarant 2 fonctions `getInnerSize` et `getOuterSize` qui vont retourner les chaines correctement concaténé de cette facon:
+- en déclarant 2 fonctions `getInnerSize` et `getOuterSize` qui vont retourner les chaînes correctement concaténées de cette façon :
 ```javascript
-"Taille de la fenetre exterieur: 800*600"
-"Taille de la fenetre interieur: 200*400"
+"Taille de la fenêtre exterieur : 800*600"
+"Taille de la fenêtre interieur : 200*400"
 ```
 
-- Declarer alors deux variables qui prendront le resultat des deux fonctions
+- Déclarer alors deux variables qui prendront le résultat des deux fonctions
 
-- Afficher ensuite les deux variables correctement definie
+- Afficher ensuite les deux variables correctement définies

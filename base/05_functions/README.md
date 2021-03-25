@@ -1,8 +1,7 @@
+## 00 - Fonction basique
 
-## Fonction basique
+## 01 - Porté des variables
 
-## Porté des variables
+## 02 - Porté des variables 2
 
-## Porté des variables 2
-
-## Retour de fonction
+## 03 - Retour de fonction

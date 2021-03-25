@@ -1,4 +1,4 @@
 # Fonctions
 
-Faite une fonction qui renvois la chaine de caractere `"Hello world"`
-Vous devez afficher le retour uniquement à l'aide d'une variable à l'exterieur du corp de la fonction
+Faite une fonction qui renvoie la chaîne de caractère `"Hello world"`
+Vous devez afficher le retour uniquement à l'aide d'une variable à l'extérieur du corps de la fonction.
