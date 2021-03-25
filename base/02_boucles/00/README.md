@@ -1,5 +1,5 @@
-# Opérateurs d'incrementation
+# Opérateurs d'incrémentation
 
-Utilisé les operateur d'incrementation de facon à que les deux `"OK"` s'affiche dans la console.
+Utilisé les opérateurs d'incrémentation de façon à que les deux `"OK"` s'affiche dans la console.
 
-Les opérateurs d'incrementations sont les suivants: `++, --`
+Les opérateurs d'incrémentations sont les suivants : `++, --`

@@ -1,3 +1,3 @@
 # while
 
-Utilisé une boucle for pour afficher les nombre de 0 à 10 avec une boucle while
+Utilisée, une boucle for pour afficher les nombres de 0 à 10 avec une boucle while.
