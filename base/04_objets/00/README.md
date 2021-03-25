@@ -1,10 +1,7 @@
 # Objet
 
-- Déclarer une variable qui sera un objet qui aura un attibut nom qui vaudra votre nom et un attribut age qui vaudra votre age
-
-- Afficher votre age et votre nom
-
-- Afficher toute les clef de votre Objet
-
-- Afficher toutes les valuers de votre Objet
+- Déclarer une variable qui sera un objet qui aura un attribut nom qui vaudra votre nom et un attribut age qui vaudra votre âge
+- Afficher votre âge et votre nom
+- Afficher toutes les clefs de votre Objet
+- Afficher toutes les valeurs de votre Objet
 

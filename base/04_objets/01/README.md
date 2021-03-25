@@ -1,4 +1,4 @@
 # Objet
 
-- Récuperer la declaration de votre objet.
-- Sans changer la declaration de l'objet, ajouter un nouveau champ à votre objet qui aura comme clef: email et comme valeur votre email
+- Récupérer la déclaration de votre objet.
+- Sans changer la déclaration de l'objet, ajouter un nouveau champ à votre objet qui aura comme clef : e-mail et comme valeur votre e-mail
