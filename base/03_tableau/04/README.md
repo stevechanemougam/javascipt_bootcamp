@@ -1,3 +1,3 @@
 # filter
 
-Utiliser `filter` pour afficher uniquement les nombre positif et inferieur à 100 du tableau `arr`
+Utiliser `filter` pour afficher uniquement les nombres positifs et inférieur à 100 du tableau `arr`
