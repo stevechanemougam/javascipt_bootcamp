@@ -1,9 +1,4 @@
-# Tableau d'objet
+# Fonction utiles
 
-- En utilisant la déclaration de votre objet (`exercice 00`) crée un tableau `arr` qui contiendra 3 objets. Ces objets auront les mêmes clef, mais les mêmes valeurs.
-
-- Afficher les valeurs des objets contenu dans votre tableau d'objet avec la fonction `map`
-
-- Ajouter un nouvel objet à votre tableau d'objet.
-
-- Afficher de nouveau vos objets avec `map`
+- Afficher les clefs de l'objet `obj`
+- Afficher les valeurs de l'objet `obj`
