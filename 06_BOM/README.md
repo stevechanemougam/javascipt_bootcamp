@@ -1,3 +1,5 @@
+# BOM
+
 ## [00 - Window](https://github.com/owalid/javascipt_bootcamp/tree/main/06_BOM/00)
 
 ## [00bis - Window](https://github.com/owalid/javascipt_bootcamp/tree/main/06_BOM/01)

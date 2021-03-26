@@ -1,3 +1,5 @@
+# Functions
+
 ## [00 - Fonction basique](https://github.com/owalid/javascipt_bootcamp/tree/main/05_functions/00)
 
 ## [01 - Porté des variables](https://github.com/owalid/javascipt_bootcamp/tree/main/05_functions/01)
