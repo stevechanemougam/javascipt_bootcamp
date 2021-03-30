@@ -10,3 +10,4 @@
 ## [07 - DOM](https://github.com/owalid/javascipt_bootcamp/tree/main/07_DOM)
 ## [08 - Cookies](https://github.com/owalid/javascipt_bootcamp/tree/main/08_cookies)
 ## [09 - import / export](https://github.com/owalid/javascipt_bootcamp/tree/main/09_import_export)
+## [10 - ajax - fetch](https://github.com/owalid/javascipt_bootcamp/tree/main/10_ajax_fetch)
