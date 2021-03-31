@@ -1,6 +1,10 @@
 
 // let
 
-let a = 2021;
+let a = 1;
+
+console.log(a);
+
+a = 2021;
 
 console.log(a);
