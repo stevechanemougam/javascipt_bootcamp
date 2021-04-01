@@ -1,15 +1,5 @@
-
-let a = 0
-let b = 200
-
-if (a === 5) {
-  console.log("OK")
-} else {
-  console.log("KO")
-}
-
-if (b === 198) {
-  console.log("OK")
-} else {
-  console.log("KO")
+let tableau = ['a','b','c','d','e'];
+console.table(tableau);
+for (let i=0; i<tableau.length;i++){
+  console.table(tableau[i]);
 }
